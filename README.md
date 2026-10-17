@@ -16,6 +16,8 @@ I've built products from scratch and managed tech teams directly. Right now I'm 
 
 - [FanoutQ](https://fanoutq.com) — an AI query fan-out generator for SEO and GEO: expands one seed query into the full set of real questions people (and AI engines) ask, so you can build content that covers them all.
 
+- [OpenGEO](https://github.com/rohanjha2019/opengeo-mcp) — open-source MCP server for AI search visibility (GEO/AEO). Audits how robots.txt treats 17 AI crawlers, checks llms.txt, and returns a 0-100 AI visibility score. Built so any AI agent can run GEO audits.
+
 ## Writing
 
 Portfolio articles on AI search, GEO/AEO and technical SEO are on the way.
