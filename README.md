@@ -14,6 +14,8 @@ I've built products from scratch and managed tech teams directly. Right now I'm 
 
 - [TrendyInAI](https://trendyinai.com) — a curated, researched directory of AI tools, MCP servers and GEO/AEO tooling. We score and document products so you can pick the right one in minutes instead of weeks.
 
+- [FanoutQ](https://fanoutq.com) — an AI query fan-out generator for SEO and GEO: expands one seed query into the full set of real questions people (and AI engines) ask, so you can build content that covers them all.
+
 ## Writing
 
 Portfolio articles on AI search, GEO/AEO and technical SEO are on the way.
